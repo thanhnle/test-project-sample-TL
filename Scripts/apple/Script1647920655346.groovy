@@ -19,7 +19,12 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://www.w3schools.com/')
+WebUI.navigateToUrl('https://www.apple.com/vn/')
+
+WebUI.click(findTestObject('Object Repository/Page_Apple (Vietnam)/a_Only on Apple'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Only on Apple - Services - Apple (VN)/span_Only on Apple'), 
+    'Only on Apple.')
 
 WebUI.closeBrowser()
 
