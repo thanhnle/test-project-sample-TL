@@ -3,6 +3,7 @@
    <description></description>
    <name>Simple Test Suite Collection</name>
    <tag></tag>
+   <delayBetweenInstances>0</delayBetweenInstances>
    <executionMode>SEQUENTIAL</executionMode>
    <maxConcurrentInstances>8</maxConcurrentInstances>
    <testSuiteRunConfigurations>
@@ -10,6 +11,7 @@
          <configuration>
             <groupName>Web Desktop</groupName>
             <profileName>default</profileName>
+            <requireConfigurationData>false</requireConfigurationData>
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
@@ -18,7 +20,8 @@
       <TestSuiteRunConfiguration>
          <configuration>
             <groupName>Web Desktop</groupName>
-            <profileName>default</profileName>
+            <profileName>thanh-le-profile</profileName>
+            <requireConfigurationData>false</requireConfigurationData>
             <runConfigurationId>IE</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
@@ -28,6 +31,7 @@
          <configuration>
             <groupName>Web Desktop</groupName>
             <profileName>default</profileName>
+            <requireConfigurationData>false</requireConfigurationData>
             <runConfigurationId>Edge Chromium</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
@@ -36,7 +40,8 @@
       <TestSuiteRunConfiguration>
          <configuration>
             <groupName>Web Desktop</groupName>
-            <profileName>default</profileName>
+            <profileName>thanh-le-profile</profileName>
+            <requireConfigurationData>false</requireConfigurationData>
             <runConfigurationId>Safari</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
@@ -46,6 +51,7 @@
          <configuration>
             <groupName>Web Desktop</groupName>
             <profileName>default</profileName>
+            <requireConfigurationData>false</requireConfigurationData>
             <runConfigurationId>Firefox</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
