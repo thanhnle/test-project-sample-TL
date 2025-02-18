@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Simple Test Suite</name>
+   <name>navigateToUrl multiple times</name>
    <tag></tag>
    <isRerun>false</isRerun>
-   <mailRecipient>thanh.nle@katalon.com;</mailRecipient>
-   <numberOfRerun>0</numberOfRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
-   <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>90448498-6c45-4828-b338-56a95c28e995</testSuiteGuid>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>9a7097b6-b8f5-4e2c-855a-407decfe0df7</testSuiteGuid>
    <testCaseLink>
-      <guid>03f94c02-41ec-4634-93eb-6e78106f67b9</guid>
+      <guid>6ec62d99-95e9-4b98-bada-ea97f289285c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Form</testCaseId>
+      <testCaseId>Test Cases/naviageToUrl multiple times</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

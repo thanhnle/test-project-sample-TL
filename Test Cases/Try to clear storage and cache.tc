@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Form</name>
+   <name>Try to clear storage and cache</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>03119504-b7a3-4164-ab52-ee40a61fc363</testCaseGuid>
+   <testCaseGuid>ed39e13a-3ebe-4963-ba86-32a26dfe207a</testCaseGuid>
 </TestCaseEntity>

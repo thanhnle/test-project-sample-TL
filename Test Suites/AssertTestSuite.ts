@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>w3AndAppleAndForm</name>
+   <name>AssertTestSuite</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,26 +10,19 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>003f14f1-ab1e-425b-8bfa-72c13a145d5a</testSuiteGuid>
+   <testSuiteGuid>97b5badc-6fe9-4fa2-a574-f63ebf339957</testSuiteGuid>
    <testCaseLink>
-      <guid>68e85906-285f-4e14-810d-7c2ed6e1b5bf</guid>
+      <guid>7dd8e0a6-89d8-4398-8d72-8e74d3bfc3b3</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/apple</testCaseId>
+      <testCaseId>Test Cases/Assert</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>38173593-c4e2-4299-89b6-479e9790ec15</guid>
+      <guid>cbb51ee9-343a-4f72-b047-d7bae242eaa1</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/w3</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>ff28162f-e53c-428b-8166-9e33ac7fb98c</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Form</testCaseId>
+      <testCaseId>Test Cases/Assert</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

@@ -52,3 +52,14 @@ WebUI.setText(findTestObject('Object Repository/Page_Demo AUT/textarea_Comment_c
 WebUI.click(findTestObject('Object Repository/Page_Demo AUT/button_Submit'))
 
 WebUI.closeBrowser()
+
+/*
+ *  Automate the process of filling out a web form and submitting it.
+ *
+ *  1. Open a web browser to an empty page.
+ *  2. Navigate to a specified URL containing a form.
+ *  3. Fill in various fields in the form, including text inputs, radio buttons, dropdowns, and a textarea.
+ *  4. Submit the form by clicking the submit button.
+ *  5. Close the web browser after submission.
+ *
+ */

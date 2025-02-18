@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Form</name>
+   <name>Failed Test Case</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>03119504-b7a3-4164-ab52-ee40a61fc363</testCaseGuid>
+   <testCaseGuid>2301376d-39c8-42fa-94ff-313454438dba</testCaseGuid>
 </TestCaseEntity>

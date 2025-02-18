@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Form</name>
+   <name>Use keyword from global</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>03119504-b7a3-4164-ab52-ee40a61fc363</testCaseGuid>
+   <testCaseGuid>e75a5ab7-6427-4b02-9ee7-b3167924d00c</testCaseGuid>
 </TestCaseEntity>

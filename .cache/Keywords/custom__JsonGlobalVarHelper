@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "0CC87AC1A2354D80753AF10D27BDAE62",
+  "keywordClasses": [
+    {
+      "name": "custom.JsonGlobalVarHelper",
+      "keywordMethods": [
+        {
+          "name": "getVariable",
+          "parameters": [
+            {
+              "name": "key",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
