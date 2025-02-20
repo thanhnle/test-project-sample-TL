@@ -1,0 +1,38 @@
+[38;5;112m[Appium][0m Welcome to Appium v2.15.0 (REV 9600617c52d0d2e48493424c529ac6c945d2775b)
+[38;5;112m[Appium][0m Non-default server args:
+[38;5;112m[Appium][0m { basePath: [32m'/wd/hub'[39m, loglevel: [32m'info'[39m, port: [33m55109[39m }
+[38;5;112m[Appium][0m Attempting to load driver xcuitest...
+[38;5;112m[Appium][0m Appium REST http interface listener started on http://0.0.0.0:55109/wd/hub
+[38;5;112m[Appium][0m You can provide the following URLs in your client code to connect to this server:
+	http://127.0.0.1:55109/wd/hub (only accessible from the same host)
+	http://10.10.33.131:55109/wd/hub
+[38;5;112m[Appium][0m Available drivers:
+[38;5;112m[Appium][0m   - xcuitest@8.1.0 (automationName 'XCUITest')
+[38;5;112m[Appium][0m No plugins have been installed. Use the "appium plugin" command to install the one(s) you want to use.
+[38;5;86m[HTTP][0m [37m-->[39m [37mGET[39m [37m/wd/hub/status[39m {}
+[38;5;86m[HTTP][0m <-- GET /wd/hub/status 200 5 ms - 200 
+[38;5;86m[HTTP][0m [37m-->[39m [37mGET[39m [37m/wd/hub/status[39m {}
+[38;5;86m[HTTP][0m <-- GET /wd/hub/status 200 3 ms - 200 
+[38;5;86m[HTTP][0m [37m-->[39m [37mPOST[39m [37m/wd/hub/session[39m {"capabilities":{"firstMatch":[{"appium:app":"/Users/thanh.nle/Library/Developer/Xcode/DerivedData/Coffee_Timer-bfprymzgemkicifgrxqxidmfmvyk/Build/Products/Debug-iphonesimulator/Coffee Timer.app","appium:automationName":"XCUITest","appium:deviceName":"iPhone 16 of TL","appium:fullReset":false,"appium:newCommandTimeout":1800,"appium:noReset":true,"appium:platformVersion":"18.2","appium:udid":"C75F08D9-821A-44E3-9508-CA3C866EDC65","appium:waitForAppScript":"true;","appium:wdaLocalPort":55122,"platformName":"IOS"}]},"desiredCapabilities":{"appium:app":"/Users/thanh.nle/Library/Developer/Xcode/DerivedData/Coffee_Timer-bfprymzgemkicifgrxqxidmfmvyk/Build/Products/Debug-iphonesimulator/Coffee Timer.app","appium:automationName":"XCUITest","appium:deviceName":"iPhone 16 of TL","appium:fullReset":false,"appium:newCommandTimeout":1800,"appium:noReset":true,"appium:platformVersion":"18.2","appium:udid":"C75F08D9-821A-44E3-9508-CA3C866EDC65","appium:waitForAppScript":"true;","appium:wdaLocalPort":55122}}
+[38;5;112m[Appium][0m Attempting to find matching driver for automationName 'XCUITest' and platformName 'IOS'
+[38;5;112m[Appium][0m The 'xcuitest' driver was installed and matched caps.
+[38;5;112m[Appium][0m Will require it at /Users/thanh.nle/.appium/node_modules/appium-xcuitest-driver
+[38;5;169m[AppiumDriver@4dc4][0m Appium v2.15.0 creating new XCUITestDriver (v8.1.0) session
+[38;5;169m[AppiumDriver@4dc4][0m Checking BaseDriver versions for Appium and XCUITestDriver
+[38;5;169m[AppiumDriver@4dc4][0m Appium's BaseDriver version is 9.15.0
+[38;5;169m[AppiumDriver@4dc4][0m XCUITestDriver's BaseDriver version is 9.15.0
+[38;5;74m[XCUITestDriver@5615][0m The following provided capabilities were not recognized by this driver:
+[38;5;74m[XCUITestDriver@5615][0m   waitForAppScript
+[38;5;31m[545d978a][0m[38;5;74m[XCUITestDriver@5615][0m Session created with session id: 545d978a-38ec-436d-84b0-dbadc009cf36
+[38;5;31m[545d978a][0m[38;5;74m[XCUITestDriver@5615][0m Constructing iOS simulator for Xcode version 16.2 with udid 'C75F08D9-821A-44E3-9508-CA3C866EDC65'
+[38;5;31m[545d978a][0m[38;5;74m[XCUITestDriver@5615][0m Determining device to run tests on: udid: 'C75F08D9-821A-44E3-9508-CA3C866EDC65', real device: false
+[38;5;31m[545d978a][0m[38;5;123m[BaseDriver][0m Using local app '/Users/thanh.nle/Library/Developer/Xcode/DerivedData/Coffee_Timer-bfprymzgemkicifgrxqxidmfmvyk/Build/Products/Debug-iphonesimulator/Coffee Timer.app'
+[38;5;31m[545d978a][0m[38;5;74m[XCUITestDriver@5615][0m Using WDA path: '/Users/thanh.nle/.appium/node_modules/appium-xcuitest-driver/node_modules/appium-webdriveragent'
+[38;5;31m[545d978a][0m[38;5;74m[XCUITestDriver@5615][0m Using WDA agent: '/Users/thanh.nle/.appium/node_modules/appium-xcuitest-driver/node_modules/appium-webdriveragent/WebDriverAgent.xcodeproj'
+[38;5;31m[545d978a][0m[38;5;74m[XCUITestDriver@5615][0m Continuing without capturing device logs: iOS Simulator with udid 'C75F08D9-821A-44E3-9508-CA3C866EDC65' is not running
+[38;5;31m[545d978a][0m[38;5;74m[XCUITestDriver@5615][0m Setting up simulator
+[38;5;31m[545d978a][0m[38;5;74m[XCUITestDriver@5615][0m Simulator with UDID C75F08D9-821A-44E3-9508-CA3C866EDC65 booted in 11.760s
+[38;5;31m[545d978a][0m[38;5;74m[XCUITestDriver@5615][0m App 'com.ashfurrow.Coffee-Timer' is not installed yet or it has an offload and cannot be detected, which might keep the local data.
+[38;5;31m[545d978a][0m[38;5;23m[DevCon Factory][0m Releasing connections for C75F08D9-821A-44E3-9508-CA3C866EDC65 device on any port number
+[38;5;31m[545d978a][0m[38;5;23m[DevCon Factory][0m No cached connections have been found
+[38;5;31m[545d978a][0m[38;5;86m[HTTP][0m <-- POST /wd/hub/session 500 25140 ms - 1554 

@@ -1,15 +1,16 @@
 {
-  "keywordFileContentHash": "D5BA36BFEF9987D589DCDF5138AC5CEF",
+  "keywordFileContentHash": "394F5B6DFE73E4E858430026057118B7",
   "keywordClasses": [
     {
       "name": "custom.BrowserUtils",
       "keywordMethods": [
         {
           "name": "clearBrowserData",
-          "parameters": []
+          "parameters": [],
+          "javadoc": ""
         }
       ]
     }
   ],
-  "javadocParsed": false
+  "javadocParsed": true
 }
